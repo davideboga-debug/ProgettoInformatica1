@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.neon-deploy.log
+.cookies.txt
+.e2e-*
+.DS_Store
+*.tsbuildinfo
